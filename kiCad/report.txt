@@ -1,0 +1,342 @@
+Info: Processing symbol 'C1:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'D1:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'DS1:Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Horizontal'.
+Info: Processing symbol 'C2:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'C5:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'C3:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'C4:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'SW1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW2:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW3:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW4:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'U1:Package_DIP:DIP-40_W15.24mm'.
+Info: Processing symbol 'U2:Package_DIP:DIP-8_W7.62mm'.
+Info: Processing symbol 'Y1:Crystal:Crystal_HC49-4H_Vertical'.
+Updated C1 footprint filters to 'C_*'.
+Add net Net-(U1-XTAL2).
+Connected C1 pin 1 to Net-(U1-XTAL2).
+Add net GND.
+Connected C1 pin 2 to GND.
+Updated C1 unit metadata.
+Added C2 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Changed REF** reference designator to C2.
+Changed C2 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 22pf.
+Updated C2 symbol association from  to /151e1b59-dd00-439d-a86c-cd9c012982be.
+Updated C2 fields.
+Updated C2 sheetname to '/'.
+Updated C2 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Add net Net-(U1-XTAL1).
+Connected C2 pin 1 to Net-(U1-XTAL1).
+Connected C2 pin 2 to GND.
+Updated C2 unit metadata.
+Added C3 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Changed REF** reference designator to C3.
+Changed C3 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nf.
+Updated C3 symbol association from  to /fb9a7d01-950e-4fcc-ac39-2e342fe518a8.
+Updated C3 fields.
+Updated C3 sheetname to '/'.
+Updated C3 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Connected C3 pin 2 to GND.
+Add net +5V.
+Connected C3 pin 1 to +5V.
+Updated C3 unit metadata.
+Added C4 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Changed REF** reference designator to C4.
+Changed C4 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nf.
+Updated C4 symbol association from  to /fce24c82-dcb2-4710-afde-f8720a017aba.
+Updated C4 fields.
+Updated C4 sheetname to '/'.
+Updated C4 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Connected C4 pin 1 to GND.
+Connected C4 pin 2 to +5V.
+Updated C4 unit metadata.
+Added C5 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Changed REF** reference designator to C5.
+Changed C5 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nf.
+Updated C5 symbol association from  to /51ecce6c-d95d-4e6f-b967-c3b6517b4b46.
+Updated C5 fields.
+Updated C5 sheetname to '/'.
+Updated C5 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Updated C5 footprint filters to 'C_*'.
+Add net Net-(U1-AREF).
+Connected C5 pin 2 to Net-(U1-AREF).
+Connected C5 pin 1 to GND.
+Updated C5 unit metadata.
+Added D1 (footprint 'LED_THT:LED_D5.0mm').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_D5.0mm to IR26-21C_L110_TR8.
+Updated D1 symbol association from  to /98c0c4df-c740-4918-a4c2-40e4a6ed5f91.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Updated D1 footprint filters to 'LED*1206*3216Metric*'.
+Add net Net-(D1-A).
+Connected D1 pin 2 to Net-(D1-A).
+Connected D1 pin 1 to GND.
+Updated D1 unit metadata.
+Added DS1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Horizontal').
+Changed REF** reference designator to DS1.
+Changed DS1 value from PinHeader_1x16_P2.54mm_Horizontal to WC1602A.
+Updated DS1 symbol association from  to /7002656b-59dc-4dd0-b44b-a1e851c60e72.
+Updated DS1 fields.
+Updated DS1 sheetname to '/'.
+Updated DS1 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Updated DS1 footprint filters to '*WC*1602A*'.
+Add net unconnected-(DS1-D2-Pad9).
+Connected DS1 pin 9 to unconnected-(DS1-D2-Pad9).
+Connected DS1 pin 16 to GND.
+Add net unconnected-(DS1-D0-Pad7).
+Connected DS1 pin 7 to unconnected-(DS1-D0-Pad7).
+Connected DS1 pin 2 to +5V.
+Add net Net-(DS1-D5).
+Connected DS1 pin 12 to Net-(DS1-D5).
+Add net Net-(DS1-D6).
+Connected DS1 pin 13 to Net-(DS1-D6).
+Add net Net-(DS1-RS).
+Connected DS1 pin 4 to Net-(DS1-RS).
+Connected DS1 pin 5 to GND.
+Add net Net-(DS1-D4).
+Connected DS1 pin 11 to Net-(DS1-D4).
+Add net unconnected-(DS1-VO-Pad3).
+Connected DS1 pin 3 to unconnected-(DS1-VO-Pad3).
+Add net Net-(DS1-E).
+Connected DS1 pin 6 to Net-(DS1-E).
+Add net unconnected-(DS1-D3-Pad10).
+Connected DS1 pin 10 to unconnected-(DS1-D3-Pad10).
+Add net unconnected-(DS1-D1-Pad8).
+Connected DS1 pin 8 to unconnected-(DS1-D1-Pad8).
+Connected DS1 pin 1 to GND.
+Add net Net-(DS1-LED(+)).
+Connected DS1 pin 15 to Net-(DS1-LED(+)).
+Add net Net-(DS1-D7).
+Connected DS1 pin 14 to Net-(DS1-D7).
+Updated DS1 unit metadata.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 10k.
+Updated R1 symbol association from  to /6cfb4c4a-0e15-4a49-97cc-a842b10b0202.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 1 to +5V.
+Add net Net-(U1-~{RESET}).
+Connected R1 pin 2 to Net-(U1-~{RESET}).
+Updated R1 unit metadata.
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R2.
+Changed R2 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 4.7k.
+Updated R2 symbol association from  to /38149ab2-13eb-46b0-b994-570cfb5744c2.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 2 to +5V.
+Add net Net-(U1-PC1).
+Connected R2 pin 1 to Net-(U1-PC1).
+Updated R2 unit metadata.
+Added R3 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R3.
+Changed R3 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 220.
+Updated R3 symbol association from  to /058966ea-8f4b-45f9-8417-390cc33d6925.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Connected R3 pin 1 to Net-(DS1-LED(+)).
+Connected R3 pin 2 to GND.
+Updated R3 unit metadata.
+Added R4 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R4.
+Changed R4 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 330.
+Updated R4 symbol association from  to /22505d18-38b9-409e-8ecf-68f7b1a25b09.
+Updated R4 fields.
+Updated R4 sheetname to '/'.
+Updated R4 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Add net Net-(U1-PB0).
+Connected R4 pin 1 to Net-(U1-PB0).
+Connected R4 pin 2 to Net-(D1-A).
+Updated R4 unit metadata.
+Added R5 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R5.
+Changed R5 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 4.7k.
+Updated R5 symbol association from  to /ee5a8243-029b-4c2b-8ddf-c5f2242508fe.
+Updated R5 fields.
+Updated R5 sheetname to '/'.
+Updated R5 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Updated R5 footprint filters to 'R_*'.
+Connected R5 pin 2 to +5V.
+Add net Net-(U1-PC0).
+Connected R5 pin 1 to Net-(U1-PC0).
+Updated R5 unit metadata.
+Added C1 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Added SW1 (footprint 'Button_Switch_THT:SW_PUSH_6mm').
+Changed REF** reference designator to SW1.
+Changed SW1 value from SW_PUSH_6mm to SW_Push.
+Updated SW1 symbol association from  to /52392305-86a9-42b4-8ffb-8c5edc1b2f41.
+Updated SW1 fields.
+Updated SW1 sheetname to '/'.
+Updated SW1 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Connected SW1 pin 2 to GND.
+Add net Net-(U1-PA0).
+Connected SW1 pin 1 to Net-(U1-PA0).
+Connected SW1 pin 1 to Net-(U1-PA0).
+Connected SW1 pin 2 to GND.
+Updated SW1 unit metadata.
+Changed REF** reference designator to C1.
+Added SW2 (footprint 'Button_Switch_THT:SW_PUSH_6mm').
+Changed REF** reference designator to SW2.
+Changed SW2 value from SW_PUSH_6mm to SW_Push.
+Updated SW2 symbol association from  to /2a4507e0-186d-43fb-abae-04b540e477f9.
+Updated SW2 fields.
+Updated SW2 sheetname to '/'.
+Updated SW2 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Add net Net-(U1-PA1).
+Connected SW2 pin 1 to Net-(U1-PA1).
+Connected SW2 pin 2 to GND.
+Connected SW2 pin 1 to Net-(U1-PA1).
+Connected SW2 pin 2 to GND.
+Updated SW2 unit metadata.
+Changed C1 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 22pf.
+Added SW3 (footprint 'Button_Switch_THT:SW_PUSH_6mm').
+Changed REF** reference designator to SW3.
+Changed SW3 value from SW_PUSH_6mm to SW_Push.
+Updated SW3 symbol association from  to /0098050d-85b1-48f0-b3a1-bf7f39461378.
+Updated SW3 fields.
+Updated SW3 sheetname to '/'.
+Updated SW3 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Connected SW3 pin 2 to GND.
+Connected SW3 pin 2 to GND.
+Add net Net-(U1-PA2).
+Connected SW3 pin 1 to Net-(U1-PA2).
+Connected SW3 pin 1 to Net-(U1-PA2).
+Updated SW3 unit metadata.
+Updated C1 symbol association from  to /d7c13d6d-5393-42f8-be5d-b56a14a90edd.
+Added SW4 (footprint 'Button_Switch_THT:SW_PUSH_6mm').
+Changed REF** reference designator to SW4.
+Changed SW4 value from SW_PUSH_6mm to SW_Push.
+Updated SW4 symbol association from  to /70292623-fac2-4621-9785-aeaeeee70c05.
+Updated SW4 fields.
+Updated SW4 sheetname to '/'.
+Updated SW4 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Connected SW4 pin 1 to GND.
+Connected SW4 pin 2 to Net-(U1-~{RESET}).
+Connected SW4 pin 2 to Net-(U1-~{RESET}).
+Connected SW4 pin 1 to GND.
+Updated SW4 unit metadata.
+Updated C1 fields.
+Added U1 (footprint 'Package_DIP:DIP-40_W15.24mm').
+Changed REF** reference designator to U1.
+Changed U1 value from DIP-40_W15.24mm to ATmega32A-P.
+Updated U1 symbol association from  to /7aedbe91-d86c-4c62-bb92-7c8b712917d6.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Updated U1 footprint filters to 'DIP*W15.24mm*'.
+Add net unconnected-(U1-PA3-Pad37).
+Connected U1 pin 37 to unconnected-(U1-PA3-Pad37).
+Add net unconnected-(U1-PA5-Pad35).
+Connected U1 pin 35 to unconnected-(U1-PA5-Pad35).
+Add net unconnected-(U1-PC4-Pad26).
+Connected U1 pin 26 to unconnected-(U1-PC4-Pad26).
+Connected U1 pin 22 to Net-(U1-PC0).
+Connected U1 pin 11 to GND.
+Connected U1 pin 9 to Net-(U1-~{RESET}).
+Connected U1 pin 40 to Net-(U1-PA0).
+Add net unconnected-(U1-PC7-Pad29).
+Connected U1 pin 29 to unconnected-(U1-PC7-Pad29).
+Add net unconnected-(U1-PC2-Pad24).
+Connected U1 pin 24 to unconnected-(U1-PC2-Pad24).
+Connected U1 pin 39 to Net-(U1-PA1).
+Connected U1 pin 30 to +5V.
+Add net unconnected-(U1-PB6-Pad7).
+Connected U1 pin 7 to unconnected-(U1-PB6-Pad7).
+Add net unconnected-(U1-PA7-Pad33).
+Connected U1 pin 33 to unconnected-(U1-PA7-Pad33).
+Add net unconnected-(U1-PB7-Pad8).
+Connected U1 pin 8 to unconnected-(U1-PB7-Pad8).
+Add net unconnected-(U1-PC3-Pad25).
+Connected U1 pin 25 to unconnected-(U1-PC3-Pad25).
+Add net unconnected-(U1-PB5-Pad6).
+Connected U1 pin 6 to unconnected-(U1-PB5-Pad6).
+Connected U1 pin 21 to Net-(DS1-D7).
+Add net unconnected-(U1-PB3-Pad4).
+Connected U1 pin 4 to unconnected-(U1-PB3-Pad4).
+Connected U1 pin 18 to Net-(DS1-D4).
+Connected U1 pin 23 to Net-(U1-PC1).
+Add net unconnected-(U1-PC5-Pad27).
+Connected U1 pin 27 to unconnected-(U1-PC5-Pad27).
+Connected U1 pin 14 to Net-(DS1-RS).
+Add net unconnected-(U1-PA4-Pad36).
+Connected U1 pin 36 to unconnected-(U1-PA4-Pad36).
+Add net unconnected-(U1-PB1-Pad2).
+Connected U1 pin 2 to unconnected-(U1-PB1-Pad2).
+Connected U1 pin 20 to Net-(DS1-D6).
+Connected U1 pin 13 to Net-(U1-XTAL1).
+Connected U1 pin 31 to GND.
+Add net unconnected-(U1-PC6-Pad28).
+Connected U1 pin 28 to unconnected-(U1-PC6-Pad28).
+Add net unconnected-(U1-PD2-Pad16).
+Connected U1 pin 16 to unconnected-(U1-PD2-Pad16).
+Add net unconnected-(U1-PD3-Pad17).
+Connected U1 pin 17 to unconnected-(U1-PD3-Pad17).
+Connected U1 pin 32 to Net-(U1-AREF).
+Connected U1 pin 12 to Net-(U1-XTAL2).
+Add net unconnected-(U1-PA6-Pad34).
+Connected U1 pin 34 to unconnected-(U1-PA6-Pad34).
+Connected U1 pin 15 to Net-(DS1-E).
+Add net unconnected-(U1-PB2-Pad3).
+Connected U1 pin 3 to unconnected-(U1-PB2-Pad3).
+Connected U1 pin 19 to Net-(DS1-D5).
+Connected U1 pin 10 to +5V.
+Add net unconnected-(U1-PB4-Pad5).
+Connected U1 pin 5 to unconnected-(U1-PB4-Pad5).
+Connected U1 pin 1 to Net-(U1-PB0).
+Connected U1 pin 38 to Net-(U1-PA2).
+Updated U1 unit metadata.
+Updated C1 sheetname to '/'.
+Added U2 (footprint 'Package_DIP:DIP-8_W7.62mm').
+Changed REF** reference designator to U2.
+Changed U2 value from DIP-8_W7.62mm to DS1307+.
+Updated U2 symbol association from  to /eea98ce2-5f21-45e4-b3be-16c34688e84b.
+Updated U2 fields.
+Updated U2 sheetname to '/'.
+Updated U2 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Updated U2 footprint filters to 'DIP*W7.62mm*'.
+Add net unconnected-(U2-X1-Pad1).
+Connected U2 pin 1 to unconnected-(U2-X1-Pad1).
+Connected U2 pin 4 to GND.
+Add net unconnected-(U2-X2-Pad2).
+Connected U2 pin 2 to unconnected-(U2-X2-Pad2).
+Connected U2 pin 6 to Net-(U1-PC0).
+Connected U2 pin 8 to +5V.
+Add net unconnected-(U2-VBAT-Pad3).
+Connected U2 pin 3 to unconnected-(U2-VBAT-Pad3).
+Connected U2 pin 5 to Net-(U1-PC1).
+Add net unconnected-(U2-SQW/OUT-Pad7).
+Connected U2 pin 7 to unconnected-(U2-SQW/OUT-Pad7).
+Updated U2 unit metadata.
+Updated C1 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Added Y1 (footprint 'Crystal:Crystal_HC49-4H_Vertical').
+Changed REF** reference designator to Y1.
+Changed Y1 value from Crystal_HC49-4H_Vertical to Crystal.
+Updated Y1 symbol association from  to /e9d209bf-950a-4ed9-9a84-73dbfdb621b3.
+Updated Y1 fields.
+Updated Y1 sheetname to '/'.
+Updated Y1 sheetfile to 'PBL06_RTC_Display.kicad_sch'.
+Updated Y1 footprint filters to 'Crystal*'.
+Connected Y1 pin 2 to Net-(U1-XTAL2).
+Connected Y1 pin 1 to Net-(U1-XTAL1).
+Updated Y1 unit metadata.
+
+
+Info: Total warnings: 0, errors: 0.

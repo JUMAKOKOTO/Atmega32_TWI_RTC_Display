@@ -1,0 +1,13 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'D:\NOTES\THIRD YEAR\TICHA 2\CT 321\ATmega32_TWI_RTC_Display\PBL06_RTC_Display\PBL06_RTC_Display-F_Cu.gbr'.
+Plotted to 'D:\NOTES\THIRD YEAR\TICHA 2\CT 321\ATmega32_TWI_RTC_Display\PBL06_RTC_Display\PBL06_RTC_Display-B_Cu.gbr'.
+Plotted to 'D:\NOTES\THIRD YEAR\TICHA 2\CT 321\ATmega32_TWI_RTC_Display\PBL06_RTC_Display\PBL06_RTC_Display-F_Paste.gbr'.
+Plotted to 'D:\NOTES\THIRD YEAR\TICHA 2\CT 321\ATmega32_TWI_RTC_Display\PBL06_RTC_Display\PBL06_RTC_Display-B_Paste.gbr'.
+Plotted to 'D:\NOTES\THIRD YEAR\TICHA 2\CT 321\ATmega32_TWI_RTC_Display\PBL06_RTC_Display\PBL06_RTC_Display-F_Silkscreen.gbr'.
+Plotted to 'D:\NOTES\THIRD YEAR\TICHA 2\CT 321\ATmega32_TWI_RTC_Display\PBL06_RTC_Display\PBL06_RTC_Display-B_Silkscreen.gbr'.
+Plotted to 'D:\NOTES\THIRD YEAR\TICHA 2\CT 321\ATmega32_TWI_RTC_Display\PBL06_RTC_Display\PBL06_RTC_Display-F_Mask.gbr'.
+Plotted to 'D:\NOTES\THIRD YEAR\TICHA 2\CT 321\ATmega32_TWI_RTC_Display\PBL06_RTC_Display\PBL06_RTC_Display-B_Mask.gbr'.
+Plotted to 'D:\NOTES\THIRD YEAR\TICHA 2\CT 321\ATmega32_TWI_RTC_Display\PBL06_RTC_Display\PBL06_RTC_Display-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\NOTES\THIRD YEAR\TICHA 2\CT 321\ATmega32_TWI_RTC_Display\PBL06_RTC_Display\PBL06_RTC_Display-job.gbrjob'.
+Info: Done.
